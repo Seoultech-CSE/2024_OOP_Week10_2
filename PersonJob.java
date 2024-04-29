@@ -1,4 +1,4 @@
-public class Problem2 {
+public class PersonJob {
     public static void main(String[] args) {
         Person person = new Person("Peter");
         Student student = new Student("Susan");
