@@ -1,6 +1,6 @@
-# 2024_OOP_Week10_2 : Person
+# 2024_OOP_Week10_2 : PersonJob
 
-- 각 코드에 주석으로 간단한 설명이 달려있습니다. 참고하셔서 `Problem2.java` 를 수정해주세요.
+- 각 코드에 주석으로 간단한 설명이 달려있습니다. 참고하셔서 `PersonJob.java` 를 수정해주세요.
 - sample run을 참조하세요.
 
 ---
